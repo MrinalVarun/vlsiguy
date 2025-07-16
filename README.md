@@ -34,7 +34,6 @@ It models a real-world vending machine with a clean **Finite State Machine (FSM)
 
 - Verilog HDL (Synthesizable)
 - Icarus Verilog, ModelSim, or any other Verilog simulator
-- FPGA-friendly design (Basys 3 or similar)
 
 ---
 
